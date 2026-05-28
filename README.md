@@ -1,4 +1,4 @@
-# C-Console-Project-Assignment-7
+# CSharp-Console-Project-Assignment-7
 
 A simple C# console application developed using .NET 10.0.  
 This project demonstrates the use of user-defined methods to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
